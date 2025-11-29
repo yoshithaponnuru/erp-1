@@ -1,7 +1,5 @@
 streamlit
 pandas
 numpy
-requests
 python-dateutil
 Pillow
-sqlite3-binary
