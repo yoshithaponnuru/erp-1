@@ -1,7 +1,5 @@
-streamlit
-pandas
-numpy
-python-dateutil
-Pillow
-bcrypt
-PyJWT
+streamlit>=1.24.0
+bcrypt>=4.0.1
+PyJWT>=2.8.0
+matplotlib>=3.7.0
+twilio>=8.0.0   
